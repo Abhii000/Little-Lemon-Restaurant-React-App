@@ -14,4 +14,23 @@ Before you begin, make sure you have the following installed:
 
 Steps
 1.Clone the Repository:
-git clone [<repository-url>](https://github.com/Abhii000/Little-Lemon-Restaurant-React-App.git)
+command = git clone https://github.com/Abhii000/Little-Lemon-Restaurant-React-App.git
+
+
+2.Navigate to the Project Directory:
+command = cd little-lemon-react-app
+
+3.Install Dependencies: Run the following command to install all the required dependencies:
+
+command = npm install
+
+4.Start the Development Server: Run the following command to start the React app:
+command = npm start
+
+Access the Application: Open your browser and navigate to http://localhost:3000 to view the app.
+
+
+
+
+
+
