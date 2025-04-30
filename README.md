@@ -1,6 +1,17 @@
-# Little Lemon Booking Website
+Little Lemon React App
+Welcome to the Little Lemon React App! This project is built with React and designed to provide an engaging user experience.
+Features
+- Interactive UI with React components
+- Dynamic and responsive design
+- Easy-to-navigate structure
 
-## Project Description
-This project was created during Meta's Coursera Front-End Development course. This website was the culmination of the Front-End Development Track.
+Installation
+Follow these steps to install and run the application on your local machine:
+Prerequisites
+Before you begin, make sure you have the following installed:
+- Node.js (Latest version recommended)
+- npm (Included with Node.js)
 
-This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
+Steps
+1.Clone the Repository:
+git clone [<repository-url>](https://github.com/Abhii000/Little-Lemon-Restaurant-React-App.git)
